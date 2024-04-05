@@ -1,8 +1,5 @@
 # Pymaceuticals, Inc. - Data Analysis Project
 
-## Background
-Pymaceuticals, Inc. is a pharmaceutical company specializing in anti-cancer medications. The company recently conducted an animal study to screen potential treatments for squamous cell carcinoma (SCC), a common form of skin cancer. The study involved 249 mice with SCC tumors that received various drug regimens over a 45-day period. The objective was to compare the performance of Pymaceuticals’ drug of interest, Capomulin, against other treatment regimens.
-
 ## Project Overview
 As a senior data analyst at Pymaceuticals, Inc., the task was to analyze the data from the animal study and generate all the necessary tables and figures for the technical report of the clinical study. The project involved several tasks including data preparation, summary statistics generation, visualization creation, outlier detection, and correlation/regression analysis.
 
